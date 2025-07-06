@@ -1,0 +1,19 @@
+.redback {
+    background-color: rgba(255,0,0,0.3);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#bluetext {
+    color: rgba(0,0,255,1.0);
+    font-size: 36px;
+}
+
+#greenback {
+    background-color: rgba(0,255,0,0.3);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.bigtext{
+    font-size: 24px;
+}
